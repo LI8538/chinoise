@@ -1,0 +1,41 @@
+
+    header{
+      display: flex;
+    }
+    h1{
+      font-size: 40px;
+    }
+   #tete{
+    border: 1px solid black;
+   } 
+   ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#333;
+   }
+   li{
+    float: left;
+   }
+   li a{
+    display: inline-block;
+    margin: 16px 14px;
+    color: white;
+   }
+    a:hover{
+    color: #FF0066;
+  }
+
+
+
+
+
+   footer{
+    background-color: dodgerblue;
+    text-align: center;
+   }
+   .cours{
+    text-align: center;
+   };
+ 
